@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## ▶️ Run the App
 
 ```bash
-streamlit run app/app.py
+streamlit run app/drug_designer_app.py
 ```
 
 ## 🧪 Sample Input
