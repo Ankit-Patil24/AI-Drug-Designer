@@ -1,4 +1,4 @@
-# 💊 AI Drug Designer – Streamlit App
+# 💊 AI Drug Designer
 
 A simple AI-driven de novo drug screening app using RDKit and Streamlit. Upload SMILES, compute drug-likeness (QED, logP, MW), and visualize molecules.
 
@@ -12,14 +12,14 @@ A simple AI-driven de novo drug screening app using RDKit and Streamlit. Upload 
 
 ```bash
 git clone https://github.com/yourusername/ai-drug-designer-streamlit.git
-cd ai-drug-designer-streamlit
+cd AI-Drug-Designer
 pip install -r requirements.txt
 ```
 
 ## ▶️ Run the App
 
 ```bash
-streamlit run app/drug_designer_app.py
+streamlit run app/app.py
 ```
 
 ## 🧪 Sample Input
